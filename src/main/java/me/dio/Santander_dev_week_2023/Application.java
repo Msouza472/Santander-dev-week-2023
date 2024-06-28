@@ -1,4 +1,4 @@
-package me.dio;
+package me.dio.Santander_dev_week_2023;
 
 import io.swagger.v3.oas.annotations.OpenAPIDefinition;
 import io.swagger.v3.oas.annotations.servers.Server;
